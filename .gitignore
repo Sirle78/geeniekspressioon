@@ -1,0 +1,12 @@
+# analüüsi väljund, tuleb skriptist uuesti
+tulemused/
+
+# suured toorandmed
+*.fastq
+*.fastq.gz
+*.bam
+
+# süsteemi ja redaktori prügi
+.DS_Store
+.Rhistory
+.RData
